@@ -23,7 +23,7 @@ The columns in the given dataset are as follows:
 Create a new environment
 
 ```
-python -m venv .venvpython -m venv carpr
+python -m venv carpr
 
 ```
 
